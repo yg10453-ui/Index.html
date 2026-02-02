@@ -1,5 +1,10 @@
-<head>
-    <link rel="stylesheet" href="style.css">
-    <title>My Cool Page Title</title>
-</head>
-
+p {
+    color: darkgreen;
+    font-size: 16px;
+    font-family: 'Times New Roman', serif;
+}
+p2 {
+    color: darkgreen;
+    font-size: 16px;
+    font-family: 'Times New Roman', serif;
+}
